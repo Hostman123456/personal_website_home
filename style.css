@@ -1,0 +1,23 @@
+body {
+    background-image: url(Self-Image.jpg);
+    background-size: 500px;
+}
+
+
+nav {
+    border:10px solid black;
+    padding: 20px;
+    font-size: 150%;
+    background-color: black;
+    color: goldenrod;
+    display: flex;
+    justify-content: space-around;
+}
+
+.description {
+    border: 10px solid black;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
