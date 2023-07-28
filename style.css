@@ -20,4 +20,9 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 250px;
+    text-align: center;
+    color: goldenrod;
+    margin-left: 200px;
+    margin-right: 200px;
 }
