@@ -1,7 +1,8 @@
+
+
 body {
-    background-image: url(fly.jpg);
-    background-size: 31em;
-    font-family: fantasy;
+    background-image: url(Self-Image.jpg);
+    background-size:contain;
 }
 
 
@@ -26,4 +27,14 @@ nav {
     color: goldenrod;
     margin-left: 200px;
     margin-right: 200px;
+}
+
+img {
+    width: 100px
+}
+
+
+
+#about_me_description {
+    display: none;
 }
